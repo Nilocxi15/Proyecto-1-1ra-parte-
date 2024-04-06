@@ -1,0 +1,4 @@
+logic\util\servlets\users.class
+com\mycompany\webapp\JakartaRestConfiguration.class
+logic\util\connection.class
+com\mycompany\webapp\resources\JakartaEE10Resource.class
