@@ -1,0 +1,26 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.search_form {
+    margin-top: 75px;
+    margin-left: 15%;
+}
+
+.tittle {
+    margin-left: 15%;
+    margin-bottom: 0;
+    font-size: 36px;
+}
+
+.tittle2 {
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-bottom: 0;
+    font-size: 36px;
+}

@@ -1,0 +1,9 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+

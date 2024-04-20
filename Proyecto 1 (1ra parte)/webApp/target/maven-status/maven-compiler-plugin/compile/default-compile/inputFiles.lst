@@ -1,2 +1,6 @@
-D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\com\mycompany\webapp\resources\JakartaEE10Resource.java
-D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\com\mycompany\webapp\JakartaRestConfiguration.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\model\connectDB.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\com\mycompany\webappnew\resources\JakartaEE10Resource.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\model\DAOuser.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\model\users.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\com\mycompany\webappnew\JakartaRestConfiguration.java
+D:\Documentos\Documentos USAC\Progra\Proyecto 1 (1ra parte)\webApp\src\main\java\controler\srvUser.java
