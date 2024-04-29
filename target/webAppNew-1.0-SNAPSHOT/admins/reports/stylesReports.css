@@ -1,0 +1,18 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+div .popular_routes {
+    padding-top: 3.5%;
+    padding-left: 1.5%;
+}
+
+div .routes_reports {
+    padding-top: 1.5%;
+    padding-left: 1.5%;
+}
+
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
