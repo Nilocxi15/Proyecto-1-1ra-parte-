@@ -1,0 +1,57 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.centered {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.tittle {
+    margin-left: 15%;
+    margin-bottom: 0;
+    font-size: 36px;
+}
+
+.tittle2 {
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-bottom: 0;
+    font-size: 36px;
+}
+
+div .inputBox {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5.5%;
+}
+
+.inputBox .btn {
+    margin-top: 20px;
+}
+
+div .second-group {
+    padding-right: 4%;
+    width: 45%;
+}
+
+div .first-group {
+    padding-left: 4%;
+    width: 45%;
+}
+
+div .table-wrapper {
+    padding-top: 2%;
+    padding-left: 4%;
+}
+
+.input-route {
+    width: 15%;
+    margin-left: 79%;
+}
+
+.buttons .modalButtons button {
+    height: 5vh;
+}
+
+
